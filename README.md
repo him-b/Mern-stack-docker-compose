@@ -36,5 +36,5 @@ docker build -t mern-backend .
 
 ## Using Docker Compose
 
-`docker compose up -d`
+`docker-compose up -d`
 
